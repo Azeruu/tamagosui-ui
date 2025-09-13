@@ -3,7 +3,6 @@ import { useCurrentAccount } from "@mysten/dapp-kit";
 import AdoptComponent from "./AdoptComponent";
 import PetCard from "./PetCard";
 import Header from "@/components/header";
-import PetComponent from "./PetComponent";
 import { Dialog, DialogContent, DialogTrigger } from "@/components/ui/dialog";
 import type { PetStruct } from "@/types/pet";
 

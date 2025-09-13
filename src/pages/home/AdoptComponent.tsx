@@ -10,7 +10,6 @@ import {
 import { Input } from "@/components/ui/input";
 import { useMutateAdoptPet } from "@/hooks/useMutateAdoptPet";
 import { Loader2Icon, PartyPopper } from "lucide-react";
-
 const INTIAAL_PET_IMAGE_URL =
   "https://tan-kind-lizard-741.mypinata.cloud/ipfs/bafkreidkhjpthergw2tcg6u5r344shgi2cdg5afmhgpf5bv34vqfrr7hni";
 

@@ -3,7 +3,7 @@ import { useQuery } from "@tanstack/react-query";
 
 import { MODULE_NAME, PACKAGE_ID } from "@/constants/contract";
 import { getSuiObjectFields } from "@/lib/utils";
-import type { PetAccessoryStruct } from "@/types/Pet";
+import type { PetAccessoryStruct } from "@/types/pet";
 
 export const queryKeyOwnedAccessories = ["owned-accessories"];
 
